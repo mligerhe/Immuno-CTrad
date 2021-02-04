@@ -22,3 +22,5 @@ The structure of the pipeline is represented in the following figure:
 The images correspond to patients treated with immune checkpoints inhibitors (Anti-PD1/PD-L1) in Phase I/II/III clinical trials at Vall d'Hebron Institute of Oncology (VHIO).
 
 For Data access please contact the radiomics team at VHIO: radiomicsvhio@vhio.net
+
+The resuts of this study are published in _Radiology_ journal: Ligero M. et al. A CT-based Radiomics Signature Is Associated with Response to Immune Checkpoint Inhibitors in Advanced Solid Tumors. Radiology (2021). https://doi.org/10.1148/radiol.2021200928
